@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+Hello! I am Gayathri, an Astronomer at Stockholm University, from <img src="Git icons/tree.png" width="30" /> Kerala, India.
+My current job in a nutshell:
 <!--
 **gayaviswa/gayaviswa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
