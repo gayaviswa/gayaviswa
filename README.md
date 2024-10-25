@@ -1,6 +1,10 @@
 ## Hi there 👋
 Hello! I am Gayathri, an Astronomer at Stockholm University, from <img src="Git icons/tree.png" width="30" /> Kerala, India.
-My current job in a nutshell:
+
+ <img src="Git icons/job.png" width="30" /> I detect and characterize young planets around distant stars using powerful telescopes and high-contrast tools, in an effort to understand how planets like Jupiter form. 
+
+Programming Languages: 
+
 <!--
 **gayaviswa/gayaviswa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
