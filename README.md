@@ -7,7 +7,9 @@ Programming Languages: <img src="Git icons/python.png" width="40" /> <img src="G
 
 🌱 I’m a Data science enthusiast and am currently learning Machine Learning and its applications to my research. I am constantly looking for new opportunities and challenges to expand my skills in data processing, analysis and visualization.
 
-You can reach me at <img src="Git icons/email.jpeg" width="30" /> gayathri.viswanath.25@gmail.com or at [<img src="Git icons/linkedin.png" width="30" />](www.linkedin.com)
+You can reach me at <img src="Git icons/email.jpeg" width="30" /> gayathri.viswanath.25@gmail.com or at [<img src="Git icons/linkedin.png" width="50" />](https://www.linkedin.com/in/gayathri-viswanath-244996b3)
+
+😄 Pronouns: She/Her
 <!--
 **gayaviswa/gayaviswa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,6 +21,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 
 - ⚡ Fun fact: ...
 -->
